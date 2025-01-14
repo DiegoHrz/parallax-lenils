@@ -1,6 +1,7 @@
 "use client";
 
 import { Lenis as ReactLenis } from "@studio-freight/react-lenis";
+
 import ParallaxImage from "./ParallaxImage";
 
 export default function Home() {
